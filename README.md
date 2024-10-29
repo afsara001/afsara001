@@ -6,22 +6,26 @@
 
 
 <br />
-A recent graduate from Mymensingh Engineering College(CSE), with a passion for coding and designing cool stuff.
-I have a solid command of Html CSS and JavaScript and I can Design with Adobe ilustrator, Adobe Photoshop, Canva, Figma.
-🚀I love working on personal projects and Designing in my leisure time.
+Here’s your updated paragraph tailored for an SQA (Software Quality Assurance) focus:
 
-💡 Innovation and finding solutions to problems drive me, and I'm always up for new challenges. From web development to
-software engineering, I enjoy experimenting with different technologies and frameworks and designing tools.
+---
 
-🌟 Constantly learning and staying up-to-date with the latest trends is my thing. I believe in the power of
-collaboration and knowledge sharing. Let's connect and create something awesome together! 😄
+Passionate about Software Quality Assurance, coding, and design. I have a solid command of HTML, CSS, and JavaScript, along with expertise in designing with tools like Adobe Illustrator, Adobe Photoshop, Canva, and Figma. 🚀 My attention to detail drives me to ensure high-quality software, and I love working on personal projects to sharpen my skills.
+
+💡 Innovation, problem-solving, and ensuring flawless software performance motivate me, and I'm always eager to take on new challenges. Whether it's web development or software engineering, I enjoy experimenting with different technologies, frameworks, and testing methodologies to deliver exceptional results.
+
+🌟 Continuous learning is key to my growth, and I stay up-to-date with the latest industry trends. I believe in the power of teamwork and knowledge sharing to improve processes and outcomes. Let's connect and collaborate to build something amazing! 😄
+
+---
+
+Let me know if this fits or if you want further adjustments!
 <br />
 <br />
 <img src="https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif" width="400" align="right"
     alt="coding">
-- 🔭 I’m currently working on **Some personal Project**
+- 🔭  I’m currently working on an internship, focusing on **Manual Testing**
 
-- 🌱 I’m currently learning **React **
+- 🌱 I’m currently learning **Automation Testing **
 
 - 📫 How to reach me **afsaratasnim58@gmail.com**
 
