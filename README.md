@@ -19,7 +19,7 @@ Passionate about Software Quality Assurance, coding, and design. I have a solid 
     alt="coding">
 - 🔭  I’m currently working on an internship, focusing on **Manual Testing**
 
-- 🌱 I’m currently learning **Automation Testing **
+- 🌱 I’m currently learning **Automation Testing**
 
 - 📫 How to reach me **afsaratasnim58@gmail.com**
 
