@@ -6,9 +6,6 @@
 
 
 <br />
-Here’s your updated paragraph tailored for an SQA (Software Quality Assurance) focus:
-
----
 
 Passionate about Software Quality Assurance, coding, and design. I have a solid command of HTML, CSS, and JavaScript, along with expertise in designing with tools like Adobe Illustrator, Adobe Photoshop, Canva, and Figma. 🚀 My attention to detail drives me to ensure high-quality software, and I love working on personal projects to sharpen my skills.
 
@@ -16,9 +13,6 @@ Passionate about Software Quality Assurance, coding, and design. I have a solid 
 
 🌟 Continuous learning is key to my growth, and I stay up-to-date with the latest industry trends. I believe in the power of teamwork and knowledge sharing to improve processes and outcomes. Let's connect and collaborate to build something amazing! 😄
 
----
-
-Let me know if this fits or if you want further adjustments!
 <br />
 <br />
 <img src="https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif" width="400" align="right"
