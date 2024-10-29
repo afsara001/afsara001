@@ -17,11 +17,14 @@ Passionate about Software Quality Assurance, coding, and design. I have a solid 
 <br />
 <img src="https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif" width="400" align="right"
     alt="coding">
- 🔭  I’m currently working on **Manual Testing**
+ 
+ - 🔭  I’m currently working on **Manual Testing**
 
- 🌱 I’m currently learning **Automation Testing**
 
- 📫 How to reach me **afsaratasnim58@gmail.com**
+ - 🌱 I’m currently learning **Automation Testing**
+
+
+ - 📫 How to reach me **afsaratasnim58@gmail.com**
 
 
 
@@ -35,10 +38,10 @@ Passionate about Software Quality Assurance, coding, and design. I have a solid 
             alt="https://www.facebook.com/afsara.tasnim.2020/" height="30" width="40" /></a>
 
 </p>
-
-<h3 align="left">Tools:</h3>
+<h3 align="left"> Project Management Tools:</h3>
+<p align="left"> <a https://www.atlassian.com/software/jira" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> </a> <a https:https://trello.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/> </a>  </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://www.postman.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
 
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=samiislam851&show_icons=true&locale=en&layout=compact"
