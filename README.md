@@ -36,7 +36,7 @@ Passionate about Software Quality Assurance, coding, and design. I have a solid 
     <a href="https://www.facebook.com/afsara.tasnim.2020/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="https://www.facebook.com/afsara.tasnim.2020/" height="30" width="40" /></a>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="500" align="right">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500" align="right">
 
 </p>
 <h3 align="left"> Project Management Tools:</h3>
