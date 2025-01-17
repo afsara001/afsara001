@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/ef4cc49c-3e2d-49bc-b066-81b004178125)
 <h1 align="center">Hi 👋, I'm Afasara Tasnim Tithi</h1>
 <h3 align="center">A Passionate SQA Engineer from Bangladesh Committed to Delivering High-Quality Software Solutions</h3>
 <br />
