@@ -1,5 +1,5 @@
 
-<div align="center">  
+<div align="center">
     <h1>Hi 👋, I'm Afasara Tasnim Tithi</h1>  
     <h3>A Passionate SQA Engineer from Bangladesh Committed to Delivering High-Quality Software Solutions</h3>  
 </div>  
@@ -16,8 +16,7 @@ Passionate about Software Quality Assurance, coding, and design. I have a solid 
 
 <br />
 <br />
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM4OXhja3dieHI1bmwyeXBhbHN5cm10MmR0YzZlNGI2MnZiaHU0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="450" align="right"
-    alt="coding">
+
  
  - 🔭  I’m currently working on **Manual Testing**
 
@@ -37,7 +36,8 @@ Passionate about Software Quality Assurance, coding, and design. I have a solid 
     <a href="https://www.facebook.com/afsara.tasnim.2020/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="https://www.facebook.com/afsara.tasnim.2020/" height="30" width="40" /></a>
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM4OXhja3dieHI1bmwyeXBhbHN5cm10MmR0YzZlNGI2MnZiaHU0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="450" align="right"
+    alt="coding">
 </p>
 <h3 align="left"> Project Management Tools:</h3>
 <p align="left"> <a https://www.atlassian.com/software/jira" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> </a> <a https:https://trello.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/> </a>  </p>
