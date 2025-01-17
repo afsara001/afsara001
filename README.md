@@ -1,6 +1,9 @@
-![image](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
-<h1 align="center">Hi 👋, I'm Afasara Tasnim Tithi</h1>
-<h3 align="center">A Passionate SQA Engineer from Bangladesh Committed to Delivering High-Quality Software Solutions</h3>
+
+<div align="center">  
+    <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" alt="My GIF" />  
+    <h1>Hi 👋, I'm Afasara Tasnim Tithi</h1>  
+    <h3>A Passionate SQA Engineer from Bangladesh Committed to Delivering High-Quality Software Solutions</h3>  
+</div>  
 <br />
 
 
@@ -13,12 +16,11 @@ Passionate about Software Quality Assurance, coding, and design. I have a solid 
 
 🌟 Continuous learning is key to my growth, and I stay up-to-date with the latest industry trends. I believe in the power of teamwork and knowledge sharing to improve processes and outcomes. Let's connect and collaborate to build something amazing! 😄
 
+
 <br />
 <br />
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM4OXhja3dieHI1bmwyeXBhbHN5cm10MmR0YzZlNGI2MnZiaHU0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" align="right"
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM4OXhja3dieHI1bmwyeXBhbHN5cm10MmR0YzZlNGI2MnZiaHU0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="450" align="right"
     alt="coding">
-    
-    
  
  - 🔭  I’m currently working on **Manual Testing**
 
