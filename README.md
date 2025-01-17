@@ -1,15 +1,12 @@
 
 <div align="center">  
-    <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" alt="My GIF" />  
     <h1>Hi 👋, I'm Afasara Tasnim Tithi</h1>  
     <h3>A Passionate SQA Engineer from Bangladesh Committed to Delivering High-Quality Software Solutions</h3>  
 </div>  
 <br />
 
-
-
 <br />
-
+ <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871"width="350" "height" = "200" align="right" alt="My GIF" />  
 Passionate about Software Quality Assurance, coding, and design. I have a solid command of HTML, CSS, and JavaScript, along with expertise in designing with tools like Adobe Illustrator, Adobe Photoshop, Canva, and Figma. 🚀 My attention to detail drives me to ensure high-quality software, and I love working on personal projects to sharpen my skills.
 
 💡 Innovation, problem-solving, and ensuring flawless software performance motivate me, and I'm always eager to take on new challenges. Whether it's web development or software engineering, I enjoy experimenting with different technologies, frameworks, and testing methodologies to deliver exceptional results.
