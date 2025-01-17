@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef4cc49c-3e2d-49bc-b066-81b004178125)
+![image](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 <h1 align="center">Hi 👋, I'm Afasara Tasnim Tithi</h1>
 <h3 align="center">A Passionate SQA Engineer from Bangladesh Committed to Delivering High-Quality Software Solutions</h3>
 <br />
@@ -15,8 +15,10 @@ Passionate about Software Quality Assurance, coding, and design. I have a solid 
 
 <br />
 <br />
-<img src="https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif" width="400" align="right"
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM4OXhja3dieHI1bmwyeXBhbHN5cm10MmR0YzZlNGI2MnZiaHU0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" align="right"
     alt="coding">
+    
+    
  
  - 🔭  I’m currently working on **Manual Testing**
 
